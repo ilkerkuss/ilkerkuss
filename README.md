@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm İlker
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![github-header-image](https://github.com/ilkerkuss/ilkerkuss/assets/45232369/3c139644-1efa-41e0-a5fa-765ead0305db)
 
 Hello there! 👋 I'm İlker, a passionate computer engineering graduate with a keen interest in the ever-evolving world of web technologies.I'm diving into the world of web development, eager to learn and grow. From mastering HTML and CSS to exploring JavaScript's dynamic capabilities and more, I'm excited to expand my skills and create engaging digital experiences.
 
